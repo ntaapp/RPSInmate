@@ -1,0 +1,4 @@
+{
+"ANDROID": {"showAds":true,"showDownloadApp":true,"LinkApp":"http://play.google.com","ShowRateApp":true}
+"IOS": {"showAds":true,"showDownloadApp":true,"LinkApp":"http://play.google.com","ShowRateApp":true}
+}
